@@ -7,7 +7,8 @@
   
   *Format* : `./comparison_and_match.sh file1 file2`
   
-  
+**-----------------------------------------------------------------------------------**  
+
 **Output when there is a match :**
 
 `./comparison_and_match.sh test1.txt test2.txt`
@@ -21,7 +22,11 @@
 [+] Match found in test2.txt : eight
   
   
+**-----------------------------------------------------------------------------------**   
+
 
 **Output when there is no match :**
+
+`./comparison_and_match.sh test1.txt test2.txt`
 
 [-] No Matching Results
